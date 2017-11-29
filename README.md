@@ -27,7 +27,7 @@ and install it.
 
 6. (non-BWRC users) Update cds.lib.core to point to avTech library.
 
-7. (non-BWRC users) Update cds_ff_mpt.corners_setup.sdb, which sets up model files and process corners for BAG,
+7. (non-BWRC users) Update cds_ff_mpt/corners_setup.sdb, which sets up model files and process corners for BAG,
    to point to the correct model file location.
 
 8. Clone all dependent git submodules.  Run the following commands:
