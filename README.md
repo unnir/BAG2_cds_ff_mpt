@@ -72,7 +72,7 @@ Once you finish setting up the workspace, try to run the demo as follows:
 5. in the IPython interpreter, run:
 
    ```
-   In [1]: run -i BAG_XBase_demo/demo_scrpts/bootcamp_demo.py
+   In [1]: run -i BAG_XBase_demo/demo_scripts/bootcamp_demo.py
    ```
 
    if everything works correctly, a DEMO_AMP_CS library will be generated with a schematic
